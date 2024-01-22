@@ -4,8 +4,7 @@ function Navs(){
     return(
         <div>
             <ul>
-              <li><Link to="/">Home</Link></li>
-              <li><Link to="/prasad">About</Link></li>
+
             </ul>
         </div>
     )
